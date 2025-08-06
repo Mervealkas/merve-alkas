@@ -1,31 +1,33 @@
 # 👩‍💻 Merhaba, ben Merve Nur ALKAŞ
 
-📊Veri analizi, iş zekası ve web teknolojilerine ilgi duyan bir geliştiriciyim. Python, Power BI ve Jupyter Notebook kullanarak veri odaklı projeler geliştiriyorum.
+📊 Veri analitiği, yazılım geliştirme ve iş zekâsı alanlarında projeler geliştiren yeni mezun bir Yönetim Bilişim Sistemleri öğrencisiyim. Teknolojiye olan ilgimle hem backend hem de frontend becerilerimi geliştiriyor, Python ve Power BI gibi araçlarla veri odaklı çözümler üretiyorum.
 
-## 💼 Öne Çıkan Projeler
-- **[Work-Life Balance Prediction](https://github.com/Mervealkas/Yasam-Tarzi-Verileriyle-Work-Life-Balance-Tahmini-)**  
-  Bireylerin yaşam tarzı alışkanlıklarına göre iş-yaşam dengesi skorlarını tahmin etmeye yönelik makine öğrenmesi projesi.
+## 🎓 Eğitim
+- İstanbul Esenyurt Üniversitesi, Yönetim Bilişim Sistemleri (%100 Burslu) | 2021 – 2025
 
-- **[Customer Churn - Orange](https://github.com/Mervealkas/customer-churn-orange)**  
-  Orange aracı ile churn analizi yapılan bir proje.
+## 🚀 Öne Çıkan Projeler
+- **Matador Mobil Uygulama** – TÜBİTAK destekli, YKS'ye hazırlık için matematik soru çözüm app'i
+- **Work-Life Balance Prediction** – Yaşam tarzı verileriyle iş-yaşam dengesi tahmini (Python)
+- **Customer Churn - Orange** – Müşteri kaybı analizi (Orange3)
+- **Emlak Analizi (Excel VBA)** – Fiyat tahmini ve görselleştirme sistemi
+- **HTML Web Sitesi** – Basit kişisel web sayfası (HTML/CSS)
 
-- **[HTML Web Sitesi](https://github.com/Mervealkas/ILK-WEBSITEM)**  
-  Eğitim kapsamında hazırlanmış basit bir kişisel web sitesi.
+## 💡 Yeteneklerim
+- Python, SQL, R, C++, HTML/CSS
+- Power BI, Excel VBA, Visual Studio
+- Jupyter Notebook, Orange3
+- Takım çalışması & iletişim & liderlik
 
-## 🧰 Kullandığım Teknolojiler
-- Python (Pandas, Numpy, Seaborn)
-- Power BI
-- Jupyter Notebook
-- Orange3
-- HTML/CSS
-- SQL
-- R
-- C++
-- EXCEL VBA
-- VİSUAL STUDİO CODE
+## 🧠 Sertifikalarım
+- Veri ve Yapay Zeka Okuryazarlığı (2023)
+- Girişimcilik ve E-Ticaret (2022)
+- Turkcell Siber 101 (2022)
 
-📫 **İletişim:**  
-[LinkedIn](www.linkedin.com/in/merve-nur-alkaş-117852234)  
-[E-posta](alkasmervenur@gmail.com)
-# merve-alkas
+## 📫 İletişim
+- [LinkedIn](https://www.linkedin.com/in/merve-nur-alkaş-117852234)
+- ✉️ alkasmervenur@gmail.com
+- 📍 İstanbul, Türkiye
+
+> 🌱 Öğrenmeye açık, çözüm odaklı ve teknoloji tutkunu bir mezun olarak ekiplere değer katabileceğime inanıyorum.
+
 
